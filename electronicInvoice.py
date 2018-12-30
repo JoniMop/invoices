@@ -18,7 +18,7 @@ def process_mailbox(M):
 
     """
 
-    rv, data = M.search(None, "UNSEEN")
+    rv, data = M.search(None, "UNSEEN", '(SUBJECT "Facturas")')
     if rv != 'OK':
         print("No messages found!")
         return
