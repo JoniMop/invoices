@@ -7,7 +7,7 @@ import email.header
 import datetime
 import json
 #Cuenta de correo gmail
-EMAIL_ACCOUNT = "test@familiamorera.com"
+EMAIL_ACCOUNT = "test@gmail.com"
 
 # Buzon de la cuenta en donde se hace la busqueda de correos/emails
 EMAIL_FOLDER = "INBOX"
