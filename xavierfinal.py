@@ -171,7 +171,7 @@ DATOS_XML = {}
 
 # Cuenta de correo gmail
 EMAIL_ACCOUNT = "test@familiamorera.com"
-PASS = "SantaTeresa"
+PASS = ""
 
 # Buzon de la cuenta en donde se hace la busqueda de correos
 EMAIL_FOLDER = "INBOX"
